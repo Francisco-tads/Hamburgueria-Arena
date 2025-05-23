@@ -46,7 +46,7 @@ export const menuItems: MenuItem[] = [
     name: 'Coca-Cola Litro',
     description: 'Lata 350ml, gelada.',
     price: 6.90,
-    image: '/src/img/coca-litro.jpeg?auto=compress&cs=tinysrgb&w=600',
+    image: 'https://raw.githubusercontent.com/Francisco-tads/Hamburgueria-Arena/refs/heads/master/src/img/coca-litro.jpeg?auto=compress&cs=tinysrgb&w=600',
     category: 'drink'
   },
   {
@@ -54,7 +54,7 @@ export const menuItems: MenuItem[] = [
     name: 'Guaraná Lata',
     description: 'Lata 350ml, gelado.',
     price: 6.90,
-    image: '/src/img/guarana-antarctica.jpg?auto=compress&cs=tinysrgb&w=600',
+    image: 'https://raw.githubusercontent.com/Francisco-tads/Hamburgueria-Arena/refs/heads/master/src/img/guarana-antarctica.jpg?auto=compress&cs=tinysrgb&w=600',
     category: 'drink'
   },
   {
